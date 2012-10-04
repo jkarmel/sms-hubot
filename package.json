@@ -19,7 +19,7 @@
 
   "dependencies": {
     "hubot": "2.3.2",
-    "hubot-twilio": "git://github.com/jkarmel/hubot-twilio.git#master",
+    "hubot-twilio": "git://github.com/jkarmel/hubot-twilio",
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3"
   },
