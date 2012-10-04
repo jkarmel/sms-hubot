@@ -1,10 +1,9 @@
 {
-
-  "name":        "hosted-hubot",
-  "version":     "2.3.2",
+  "name":        "sms-hubot",
+  "version":     "2.3.4",
   "author":      "GitHub Inc.",
   "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "description": "A sms bot you can add to any conversation",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
