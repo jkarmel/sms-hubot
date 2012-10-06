@@ -1,1 +1,1 @@
-web: bin/hubot -a gropume -n Hubot
+web: bin/hubot -a groupme -n Hubot
