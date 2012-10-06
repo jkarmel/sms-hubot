@@ -16,7 +16,7 @@
 
   "dependencies": {
     "hubot": "2.3.4",
-    "hubot-groupme": "git://github.com/jkarmel/hubot-groupme",
+    "hubot-twilio": "git://github.com/jkarmel/hubot-twilio",
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3"
   },
