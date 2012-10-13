@@ -20,7 +20,8 @@
         "hubot-scripts": ">= 2.1.0",
         "htmlparser": "1.7.6",
         "soupselect": "0.2.0",
-        "optparse": "1.0.3"
+        "optparse": "1.0.3",
+        "coffee-script": ">= 0.0.1"
     },
     "engines": {
         "node": "0.6.x",
