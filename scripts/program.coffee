@@ -1,4 +1,4 @@
-cription:
+#Description:
 #   None
 #
 # Dependencies:
@@ -19,4 +19,4 @@ module.exports = (robot) ->
   robot.respond /program (.+)/i, (res) ->
     code = res.match[1]
     cs.eval code, sandbox: {robot, console}
-    res.send "new code added
+    res.send "new code added"
